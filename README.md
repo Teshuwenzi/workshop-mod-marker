@@ -30,6 +30,8 @@ Designed for people who browse a lot of mods and forget everything they saw.
 - Install Tampermonkey
 - Enable developer mode
 - Install the script from Greasy Fork
+- 需要呦齁，chrome或者edge，需开启开发人员模式
+- https://greasyfork.org/zh-CN/scripts/562904-workshop-mod-marker
 
 
 ## License
